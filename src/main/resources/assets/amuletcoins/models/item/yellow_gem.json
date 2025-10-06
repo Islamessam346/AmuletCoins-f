@@ -1,0 +1,6 @@
+{
+  "parent": "minecrft:item/generated",
+  "textures": {
+    "layer0": "amuletcoins:item/yellow_gem"
+  }
+}

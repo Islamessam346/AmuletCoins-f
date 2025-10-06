@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "amuletcoins:block/raw_shiny_ore_block"
+    }
+  }
+}

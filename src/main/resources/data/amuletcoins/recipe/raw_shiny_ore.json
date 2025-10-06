@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "amuletcoins:raw_shiny_ore_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "amuletcoins:raw_shiny_ore"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "amuletcoins:item/raw_shiny_ore"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc,",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "amuletcoins",
+  "ingredient": {
+    "item": "amuletcoins:raw_shiny_ore"
+  },
+  "result": {
+    "id": "amuletcoins:shiny_ore"
+  }
+}
